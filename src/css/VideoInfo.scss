@@ -1,0 +1,10 @@
+// Required
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+// To extend
+@import '~bootstrap/scss/utilities/text';
+
+a[aria-selected=false]{
+  @extend .text-white;
+}

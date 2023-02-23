@@ -1,0 +1,8 @@
+a[target=_blank]{
+    background: transparent url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAXklEQVQoka2QwQ3AMAwCs1N28k7eiZ3oI7IcU6efBomXOREyxhUZ2brTdNAcVB2BaJgCVcDAalJLXsB+iLAjm1pAwzHWHD3gWMcMg/ERMjKfFOHVqMEGqEM/gKP/6gE2f+h+Z5P45wAAAABJRU5ErkJggg==') center right no-repeat;
+    padding-right: 14px;
+   
+}
+tbody a{
+    color: #DF691A !important;
+}
